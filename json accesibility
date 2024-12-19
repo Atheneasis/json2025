@@ -1,21 +1,21 @@
-[
-  {
-    "titulo": "Discapacidad Visual",
-    "descripcion": "Barreras que enfrentan las personas con discapacidad visual y soluciones propuestas.",
-    "imagen": "https://via.placeholder.com/150",
-    "link": "https://ejemplo.com/visual"
-  },
-  {
-    "titulo": "Discapacidad Auditiva",
-    "descripcion": "Barreras y soluciones para personas con dificultades auditivas.",
-    "imagen": "https://via.placeholder.com/150",
-    "link": "https://ejemplo.com/auditiva"
-  },
-  {
-    "titulo": "Discapacidad Motriz",
-    "descripcion": "Problemas de accesibilidad y sus soluciones para discapacidades motrices.",
-    "imagen": "https://via.placeholder.com/150",
-    "link": "https://ejemplo.com/motriz"
-  }
-]
-
+{
+  "descripcion": "Explora barreras y soluciones de accesibilidad.",
+  "categorias": [
+    {
+      "tipo_discapacidad": "Visual",
+      "barreras": ["No poder leer pantallas", "Falta de contraste"],
+      "soluciones": ["Lectores de pantalla", "Modo de alto contraste"],
+      "recursos": [
+        { "titulo": "Guía de lectores de pantalla", "url": "https://ejemplo.com/lector" }
+      ]
+    },
+    {
+      "tipo_discapacidad": "Auditiva",
+      "barreras": ["Falta de subtítulos", "Avisos solo sonoros"],
+      "soluciones": ["Subtítulos automáticos", "Alertas visuales"],
+      "recursos": [
+        { "titulo": "Guía de subtítulos", "url": "https://ejemplo.com/subtitulos" }
+      ]
+    }
+  ]
+}
