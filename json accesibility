@@ -1,91 +1,21 @@
-{
-  "wiki_accesibilidad": {
-    "descripcion": "Una wiki dedicada a las barreras de accesibilidad que enfrentan las personas con discapacidades y las soluciones disponibles.",
-    "categorias": [
-      {
-        "tipo_discapacidad": "Visual",
-        "barreras": [
-          "Imágenes sin texto alternativo",
-          "Contraste de colores insuficiente",
-          "Falta de compatibilidad con lectores de pantalla"
-        ],
-        "soluciones": [
-          "Añadir descripciones alt a las imágenes",
-          "Garantizar un contraste mínimo de 4.5:1 en textos",
-          "Usar etiquetas ARIA y semántica HTML"
-        ],
-        "recursos": [
-          {
-            "titulo": "Guía WCAG 2.1",
-            "url": "https://www.w3.org/WAI/WCAG21/quickref/"
-          },
-          {
-            "titulo": "Herramienta de evaluación de contraste",
-            "url": "https://webaim.org/resources/contrastchecker/"
-          }
-        ]
-      },
-      {
-        "tipo_discapacidad": "Auditiva",
-        "barreras": [
-          "Videos sin subtítulos",
-          "Alertas de audio sin notificaciones visuales",
-          "Falta de transcripciones para contenido hablado"
-        ],
-        "soluciones": [
-          "Incluir subtítulos en todos los videos",
-          "Añadir notificaciones visuales a las alertas sonoras",
-          "Proveer transcripciones de contenido en audio"
-        ],
-        "recursos": [
-          {
-            "titulo": "Guía para subtítulos accesibles",
-            "url": "https://www.captioningkey.org/"
-          },
-          {
-            "titulo": "Cómo crear transcripciones",
-            "url": "https://www.3playmedia.com/solutions/transcription/"
-          }
-        ]
-      },
-      {
-        "tipo_discapacidad": "Motriz",
-        "barreras": [
-          "Interfaz no navegable con teclado",
-          "Botones pequeños y difíciles de pulsar",
-          "Tiempo límite insuficiente para completar tareas"
-        ],
-        "soluciones": [
-          "Permitir navegación completa con teclado",
-          "Diseñar botones grandes y accesibles",
-          "Aumentar o eliminar los límites de tiempo"
-        ],
-        "recursos": [
-          {
-            "titulo": "Principios de diseño inclusivo",
-            "url": "https://www.microsoft.com/design/inclusive/"
-          }
-        ]
-      },
-      {
-        "tipo_discapacidad": "Cognitiva",
-        "barreras": [
-          "Lenguaje complicado",
-          "Diseño visual desordenado",
-          "Interacciones confusas"
-        ],
-        "soluciones": [
-          "Usar un lenguaje claro y sencillo",
-          "Mantener un diseño visual limpio y organizado",
-          "Proveer instrucciones claras para todas las interacciones"
-        ],
-        "recursos": [
-          {
-            "titulo": "Diseño para usuarios con discapacidades cognitivas",
-            "url": "https://www.w3.org/WAI/cognitive/"
-          }
-        ]
-      }
-    ]
+[
+  {
+    "titulo": "Discapacidad Visual",
+    "descripcion": "Barreras que enfrentan las personas con discapacidad visual y soluciones propuestas.",
+    "imagen": "https://via.placeholder.com/150",
+    "link": "https://ejemplo.com/visual"
+  },
+  {
+    "titulo": "Discapacidad Auditiva",
+    "descripcion": "Barreras y soluciones para personas con dificultades auditivas.",
+    "imagen": "https://via.placeholder.com/150",
+    "link": "https://ejemplo.com/auditiva"
+  },
+  {
+    "titulo": "Discapacidad Motriz",
+    "descripcion": "Problemas de accesibilidad y sus soluciones para discapacidades motrices.",
+    "imagen": "https://via.placeholder.com/150",
+    "link": "https://ejemplo.com/motriz"
   }
-}
+]
+
