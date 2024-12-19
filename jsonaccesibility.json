@@ -1,5 +1,5 @@
 [{
-        "id": 1,
+        "id": 0,
         "autor": "Paula Bailach y Duna Estrada",
         "titulo": "Euterpe",
         "srcimg": "https://paulabailach.github.io/Euterpe/img/fons.png",
@@ -8,7 +8,7 @@
         "url": "https://paulabailach.github.io/Euterpe/"
     },
     {
-        "id": 2,
+        "id": 1,
         "autor": "Eudald Cardozo Vallhonrat, David Garcia Aybar",
         "titulo": "FactoSaurio",
         "srcimg": "https://raw.githubusercontent.com/Eutatsu/FactoSaurio/refs/heads/main/imatges/fons.png",
@@ -17,7 +17,7 @@
         "url": "https://eutatsu.github.io/FactoSaurio/"
     },
     {
-        "id": 3,
+        "id": 2,
         "autor": "Valentina Coello y Júlia Calvo",
         "título": "ArtNetLab",
         "srcimg": "https://juliz1.github.io/artnetlabf1/img/logo/logogran.png",
@@ -26,7 +26,7 @@
         "url": "https://juliz1.github.io/artnetlabf1/"
     },
         {
-        "id": 4,
+        "id": 3,
         "autor": "Christian Radu Dragan y Lidia Alcalde Manonelles",
         "titulo": "Odin's Step",
         "srcimg": "https://raw.githubusercontent.com/Vaperinho/Odin-s-Step/refs/heads/main/img/srcimg.png",
