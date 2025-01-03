@@ -3,7 +3,7 @@
     "id": 1,
     "autor": "W3C",
     "titulo": "Web Accessibility Initiative (WAI)",
-    "srcimg": "https://www.w3.org/WAI/images/wai-logo.svg",
+    "srcimg": "https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg",
     "alt": "Logo de WAI",
     "texto": "Recursos esenciales del W3C para aprender sobre accesibilidad web y cumplir con las WCAG.",
     "url": "https://www.w3.org/WAI/"
