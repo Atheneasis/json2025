@@ -1,37 +1,65 @@
-[{
-        "id": 0,
-        "autor": "Paula Bailach y Duna Estrada",
-        "titulo": "Euterpe",
-        "srcimg": "https://paulabailach.github.io/Euterpe/img/fons.png",
-        "alt": "La imagen es el fondo del encabezado de nuestra web. Es una imagen de algunos vinilos que se sobreponen entre ellos. La imagen tiene un tono muy similar al azul corporativo de Euterpe.",
-        "texto": "Nuestra web es una tienda online de vinilos, CD y casetes. En ella hemos incluido una breve presentación de la marca, algunos de nuestros productos, información de contacto, un apartado de ofertas, una barra de navegación y enlaces a las páginas de algunos artistas. También hay otros elementos decorativos como un P5JS, un net art y un Intrinsic Web Design.",
-        "url": "https://paulabailach.github.io/Euterpe/"
-    },
-    {
-        "id": 1,
-        "autor": "Eudald Cardozo Vallhonrat, David Garcia Aybar",
-        "titulo": "FactoSaurio",
-        "srcimg": "https://raw.githubusercontent.com/Eutatsu/FactoSaurio/refs/heads/main/imatges/fons.png",
-        "alt": "Fons decoratiu de la web FactoSaurio, una serralada al capvespre",
-        "texto": "La teva pàgina de referència per a tota la (des)informació sobre dinosaures que puguis necessitar",
-        "url": "https://eutatsu.github.io/FactoSaurio/"
-    },
-    {
-        "id": 2,
-        "autor": "Valentina Coello y Júlia Calvo",
-        "título": "ArtNetLab",
-        "srcimg": "https://juliz1.github.io/artnetlabf1/img/logo/logogran.png",
-        "alt": "Imagen logo de empresa",
-        "texto": "En esta página explicamos la evolución del arte digital desde su creación hasta hoy. Mostramos los referentesy pioneros de cada etapa y una sección de galería donde indagar en sus obras y crear las tuyas.",
-        "url": "https://juliz1.github.io/artnetlabf1/"
-    },
-        {
-        "id": 3,
-        "autor": "Christian Radu Dragan y Lidia Alcalde Manonelles",
-        "titulo": "Odin's Step",
-        "srcimg": "https://raw.githubusercontent.com/Vaperinho/Odin-s-Step/refs/heads/main/img/srcimg.png",
-        "alt": "cartel de zapatilla urbana con tonos naranjas y azules",
-        "texto": "venta de zapatillas urbanas",
-        "url": "https://vaperinho.github.io/Odin-s-Step/"
-    }
+[
+  {
+    "id": 1,
+    "autor": "W3C",
+    "titulo": "Web Accessibility Initiative (WAI)",
+    "srcimg": "https://www.w3.org/WAI/images/wai-logo.svg",
+    "alt": "Logo de WAI",
+    "texto": "Recursos esenciales del W3C para aprender sobre accesibilidad web y cumplir con las WCAG.",
+    "url": "https://www.w3.org/WAI/"
+  },
+  {
+    "id": 2,
+    "autor": "Deque Systems",
+    "titulo": "Axe Accessibility",
+    "srcimg": "https://www.deque.com/wp-content/uploads/2021/04/deque-logo.png",
+    "alt": "Logo de Axe Accessibility",
+    "texto": "Una extensión de navegador para auditar la accesibilidad de tus proyectos web.",
+    "url": "https://www.deque.com/axe/"
+  },
+  {
+    "id": 3,
+    "autor": "WebAIM",
+    "titulo": "WebAIM Contrast Checker",
+    "srcimg": "https://webaim.org/images/webaim-logo.png",
+    "alt": "Logo de WebAIM",
+    "texto": "Herramienta para verificar el contraste de colores en tus diseños web.",
+    "url": "https://webaim.org/resources/contrastchecker/"
+  },
+  {
+    "id": 4,
+    "autor": "Google",
+    "titulo": "Lighthouse Accessibility",
+    "srcimg": "https://developers.google.com/web/progressive-web-apps/images/pwa-lighthouse.png",
+    "alt": "Logo de Lighthouse",
+    "texto": "Auditoría automatizada de accesibilidad integrada en Chrome DevTools.",
+    "url": "https://developers.google.com/web/tools/lighthouse/"
+  },
+  {
+    "id": 5,
+    "autor": "Microsoft",
+    "titulo": "Accessibility Insights",
+    "srcimg": "https://accessibilityinsights.io/static/media/logo-header.2d3be3ec.svg",
+    "alt": "Logo de Accessibility Insights",
+    "texto": "Herramienta gratuita para mejorar la accesibilidad de tus aplicaciones.",
+    "url": "https://accessibilityinsights.io/"
+  },
+  {
+    "id": 6,
+    "autor": "Tenon.io",
+    "titulo": "Tenon Accessibility Checker",
+    "srcimg": "https://tenon.io/images/tenon-logo.svg",
+    "alt": "Logo de Tenon.io",
+    "texto": "Prueba tus páginas web en busca de problemas de accesibilidad con Tenon.",
+    "url": "https://tenon.io/"
+  },
+  {
+    "id": 7,
+    "autor": "Level Access",
+    "titulo": "Accessibility Management Platform",
+    "srcimg": "https://www.levelaccess.com/wp-content/uploads/2019/02/logo-level-access-white.png",
+    "alt": "Logo de Level Access",
+    "texto": "Soluciones completas para accesibilidad digital.",
+    "url": "https://www.levelaccess.com/"
+  }
 ]
