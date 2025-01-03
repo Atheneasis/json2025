@@ -3,7 +3,7 @@
     "id": 1,
     "autor": "W3C",
     "titulo": "Web Accessibility Initiative (WAI)",
-    "srcimg": "https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg",
+    "srcimg": "https://raw.githubusercontent.com/Atheneasis/json2025/refs/heads/main/W3C®_Icon.svg.png",
     "alt": "Logo de WAI",
     "texto": "Recursos esenciales del W3C para aprender sobre accesibilidad web y cumplir con las WCAG.",
     "url": "https://www.w3.org/WAI/"
@@ -21,7 +21,7 @@
     "id": 3,
     "autor": "WebAIM",
     "titulo": "WebAIM Contrast Checker",
-    "srcimg": "https://webaim.org/images/webaim-logo.png",
+    "srcimg": "https://raw.githubusercontent.com/Atheneasis/json2025/refs/heads/main/logo.png",
     "alt": "Logo de WebAIM",
     "texto": "Herramienta para verificar el contraste de colores en tus diseños web.",
     "url": "https://webaim.org/resources/contrastchecker/"
@@ -30,7 +30,7 @@
     "id": 4,
     "autor": "Google",
     "titulo": "Lighthouse Accessibility",
-    "srcimg": "https://developers.google.com/web/progressive-web-apps/images/pwa-lighthouse.png",
+    "srcimg": "https://raw.githubusercontent.com/Atheneasis/json2025/refs/heads/main/Google_2015_logo.svg.png",
     "alt": "Logo de Lighthouse",
     "texto": "Auditoría automatizada de accesibilidad integrada en Chrome DevTools.",
     "url": "https://developers.google.com/web/tools/lighthouse/"
@@ -39,7 +39,7 @@
     "id": 5,
     "autor": "Microsoft",
     "titulo": "Accessibility Insights",
-    "srcimg": "https://accessibilityinsights.io/static/media/logo-header.2d3be3ec.svg",
+    "srcimg": "https://raw.githubusercontent.com/Atheneasis/json2025/refs/heads/main/nforceit-partner-microsoft-logo.png",
     "alt": "Logo de Accessibility Insights",
     "texto": "Herramienta gratuita para mejorar la accesibilidad de tus aplicaciones.",
     "url": "https://accessibilityinsights.io/"
@@ -48,7 +48,7 @@
     "id": 6,
     "autor": "Tenon.io",
     "titulo": "Tenon Accessibility Checker",
-    "srcimg": "https://tenon.io/images/tenon-logo.svg",
+    "srcimg": "https://raw.githubusercontent.com/Atheneasis/json2025/refs/heads/main/tenon.png",
     "alt": "Logo de Tenon.io",
     "texto": "Prueba tus páginas web en busca de problemas de accesibilidad con Tenon.",
     "url": "https://tenon.io/"
